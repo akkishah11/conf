@@ -1,0 +1,77 @@
+Name : sa
+type : Memory
+confession : sasasa
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"395005","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"Vodafone Essar Limited-Value Added Services","org":"Vodafone Essar Limited","as":"AS38266 Vodafone India Ltd.","query":"1.38.164.230"}___________________________________________________________________________________________________________________
+Name : iyer idli
+type : love
+confession : m
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"395005","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"Vodafone Essar Limited-Value Added Services","org":"Vodafone Essar Limited","as":"AS38266 Vodafone India Ltd.","query":"1.38.164.230"}___________________________________________________________________________________________________________________
+Name : iyer idli
+type : Request
+confession : sssssssss
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"395005","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"Vodafone Essar Limited-Value Added Services","org":"Vodafone Essar Limited","as":"AS38266 Vodafone India Ltd.","query":"1.38.164.230"}
+
+___________________________________________________________________________________________________________________
+Name : jethalalvf
+type : love
+confession : eeeeeeeeeeeee
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"395005","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"Vodafone Essar Limited-Value Added Services","org":"Vodafone Essar Limited","as":"AS38266 Vodafone India Ltd.","query":"1.38.164.230"}
+
+___________________________________________________________________________________________________________________
+Name : sa
+type : love
+confession : n
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"395005","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"Vodafone Essar Limited-Value Added Services","org":"Vodafone Essar Limited","as":"AS38266 Vodafone India Ltd.","query":"1.38.164.230"}
+
+Name : 
+type : just Saying
+confession : nk
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"395005","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"Vodafone Essar Limited-Value Added Services","org":"Vodafone Essar Limited","as":"AS38266 Vodafone India Ltd.","query":"1.38.164.230"}
+
+Name : jethalal
+type : love
+confession : bOObita is lob
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : 
+
+Name : jethalal
+type : love
+confession : hii i am x..
+MAC ADRESS : 00-50-56-C0-00-08
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"394107","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"GTPLSolanci cable network Pvt Ltd","org":"Gtpl Broadband Pvt. Ltd.","as":"AS45916 Gujarat Telelink Pvt Ltd","query":"103.251.19.241"}
+
+Name : iyer idli
+type : just Saying
+confession : uhu
+MAC ADRESS : 00-50-56-C0-00-08
+TIME : 29-07-21 02:26:47
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"394107","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"GTPLSolanci cable network Pvt Ltd","org":"Gtpl Broadband Pvt. Ltd.","as":"AS45916 Gujarat Telelink Pvt Ltd","query":"103.251.19.241"}
+
+Name : 
+type : love
+confession : x
+MAC ADRESS : 00-50-56-C0-00-08
+TIME : 29-07-21 02:30:42
+IP ADRESS is : 127.0.0.1
+full info is : {"status":"success","country":"India","countryCode":"IN","region":"GJ","regionName":"Gujarat","city":"Surat","zip":"394107","lat":21.1888,"lon":72.8293,"timezone":"Asia/Kolkata","isp":"GTPLSolanci cable network Pvt Ltd","org":"Gtpl Broadband Pvt. Ltd.","as":"AS45916 Gujarat Telelink Pvt Ltd","query":"103.251.19.241"}
+
+Name : 
+type : love
+confession : s
+MAC ADRESS : 00-50-56-C0-00-08
+browser : 

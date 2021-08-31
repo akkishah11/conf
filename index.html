@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet"/>
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>confession of charusat</title>
+</head>
+<body>
+
+
+	
+	
+	<!-- form -->
+	<form class="cd-form floating-labels" action="post.php" method="POST">
+		<fieldset>
+			<legend>User Info ( not required )</legend>
+
+			
+
+			<div class="icon">
+				<label class="cd-label" for="cd-name"></label>
+				<input class="user" type="text" name="Name" id="cd-name" placeholder="NAME will not be published" >
+		    </div> 
+
+		   
+
+		  
+		</fieldset>
+
+		<fieldset>
+			<legend>Conession Info</legend>
+
+			<div>
+				<h4>Select confession type</h4>
+				<p class="cd-select icon">
+					<select class="budget" name="type">
+						<option name="category" value="love"> &#x2764; &nbsp;&nbsp; love</option>
+						<option name="category" value="Question">&nbsp;&quest; &nbsp;&nbsp; Question</option>
+						<option name="category" value="suggestion">&#10022; &nbsp;&nbsp; suggestion</option>
+						<option name="category" value="Request">&#10070; &nbsp;&nbsp; Request</option>
+						<option name="category" value="just Saying">&#8943; &nbsp;&nbsp; Just Saying</option>
+						<option name="category" value="Help">&#8886; &nbsp;&nbsp; Help</option>
+						<option name="category" value="Memory">&#9996; &nbsp;&nbsp; Memory</option>
+						<option name="category" value="Pain">&#10083; &nbsp;&nbsp; Pain</option>
+						<option name="category" value="Truth">&#9873; &nbsp;&nbsp; Truth</option>
+						<option name="category" value="Other">&#8857; &nbsp;&nbsp; Other</option>
+					</select> 
+				</p>
+			</div> 
+
+		
+
+			
+
+			<div class="icon">
+				<label class="cd-label" for="cd-textarea">Project description</label>
+      			<textarea class="message" name="confession" id="Conession" required></textarea>
+			</div>
+
+			<div>
+		      	<input type="submit" value="Send Message">
+		    </div>
+		</fieldset>
+	</form>
+<script src="js/jquery-2.1.1.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+</body>
+</html>
